@@ -41,4 +41,4 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 
 
 ###Demo Video
-![video]https://drive.google.com/file/d/1m1LJhLQw2Co2xowEeEQjM3twJcoW0PWu/view?usp=sharing
+![video](https://drive.google.com/file/d/1m1LJhLQw2Co2xowEeEQjM3twJcoW0PWu/view?usp=sharing)
